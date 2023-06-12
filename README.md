@@ -1,2 +1,0 @@
-# tk.colour
-tk.file
